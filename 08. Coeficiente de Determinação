@@ -1,0 +1,4 @@
+# Regressao_Linear
+Meus primeiros passos para Regressão Linear
+
+regressor_vendastv.score(x_vendas,y_vendas)
