@@ -1,0 +1,13 @@
+# Regressao_Linear
+Meus primeiros passos para Regressão Linear
+
+df = pd.read_csv("tvmarketing.csv")
+df.describe()
+
+#Transformando df em array
+
+x_vendas = df.iloc[:, 0].values
+x_vendas
+
+y_vendas = df.iloc[:, 1].values
+y_vendas
