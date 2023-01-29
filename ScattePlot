@@ -1,0 +1,5 @@
+# Regressao_Linear
+Meus primeiros passos para Regressão Linear
+
+scatter = px.scatter (x = x_vendas, y = y_vendas)
+scatter.show()
