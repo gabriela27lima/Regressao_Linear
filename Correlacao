@@ -1,0 +1,6 @@
+# Regressao_Linear
+Meus primeiros passos para Regressão Linear
+
+coefs = np.corrcoef(x_vendas,y_vendas)
+coefs
+
