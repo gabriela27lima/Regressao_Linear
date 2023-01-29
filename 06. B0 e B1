@@ -1,0 +1,12 @@
+# Regressao_Linear
+Meus primeiros passos para Regressão Linear
+
+
+regressor_vendastv = LinearRegression()
+regressor_vendastv.fit(x_vendas,y_vendas)
+
+#b0
+regressor_vendastv.intercept_
+
+#b1
+regressor_vendastv.coef_
