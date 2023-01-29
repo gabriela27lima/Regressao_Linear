@@ -1,0 +1,6 @@
+# Regressao_Linear
+Meus primeiros passos para Regressão Linear
+
+visualizador = ResidualsPlot(regressor_vendastv)
+visualizador.fit(x_vendas,y_vendas)
+visualizador.poof()
