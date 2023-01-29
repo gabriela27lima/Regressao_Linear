@@ -1,0 +1,6 @@
+# Regressao_Linear
+Meus primeiros passos para Regressão Linear
+
+x = sm.add_constant(x_vendas)
+results = sm.OLS(y_vendas, x).fit()
+print(results.summary())
