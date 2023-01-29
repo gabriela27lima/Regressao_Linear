@@ -1,0 +1,8 @@
+# Regressao_Linear
+Meus primeiros passos para Regressão Linear
+
+
+#Transformando Array em Matriz
+
+x_vendas = x_vendas.reshape(-1,1)
+x_vendas.shape
